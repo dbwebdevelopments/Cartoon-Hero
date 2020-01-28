@@ -1,0 +1,73 @@
+body{
+	 margin: 0;
+	 font-family: helvetica, arial, sans-serif;
+	 font-size: 20px;
+	 line-height: 30px
+
+}
+
+header{
+	background-color: lightcoral;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+} 
+
+h1,h2{
+	font-family: 'Sigmar One', cursive;
+}
+
+header h1{
+	color: lightblue;
+	font-size: 50px;
+	}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding:20px;
+
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 25px; 
+	color: lightblue;
+	margin: 40px 0px 10px;
+}
+
+a{
+	color: lightblue
+}
+a:hover{
+	color: lightcoral;
+}
+
+footer{
+	background-color: lightcoral;
+	text-align:center;
+	color: white
+	padding:50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	color: blue;
+}
+
+p.caption{
+	color: darkgrey;
+	font-style: italic;
+	margin-top: 0;
+}
